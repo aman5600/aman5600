@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer · I build the backend that moves money</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amanvats"><img src="https://img.shields.io/badge/LinkedIn-amanvats-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aman5vats"><img src="https://img.shields.io/badge/LinkedIn-aman5vats-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aman810433@gmail.com"><img src="https://img.shields.io/badge/Email-aman810433%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Gurugram%2C%20India-555?style=flat" />
 </p>
