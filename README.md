@@ -11,8 +11,9 @@
 
 ### 💸 What I do
 
-I'm a backend engineer on the **Peer-to-Peer team at PayPay**, working on the systems behind sending money,
-requesting money and staying connected with friends, used by millions. Before that I worked on payments and cashback at
+I'm a backend engineer on the **Peer-to-Peer team at PayPay**, Japan's largest payments app
+(**75M+ registered users, more than half of Japan's population**). I work on the systems behind sending and
+requesting money, used by tens of millions of people every month. Before that I worked on payments and cashback at
 PayPay, and on loyalty, onboarding and credit-score products at **ZET**.
 
 I care about the unglamorous parts that make payments trustworthy: **idempotency, reconciliation, safe retries,
