@@ -65,6 +65,7 @@ The fix was **two lines**. Metric growth dropped from **52/hour to 0.11/hour**, 
 
 ### ✨ Outside the code
 
+- Featured in PayPay Inside-Out: [**Owning Decisions at 70 Million Scale**](https://insideout.paypay.ne.jp/en/2026/04/13/pay2-dev-speaks-vol18-en/), on engineering ownership in P2P
 - Featured in ZET's [**Life of a Backend Engineer**](https://www.linkedin.com/pulse/life-backend-engineer-zet-zetapp-in/) series
 - Founding member of *Periods and You*, Pad Bank Prayaas
 - IIIT Allahabad alum
