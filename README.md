@@ -25,7 +25,8 @@ backward-compatible rollouts, and knowing exactly why a service woke someone up 
   Send money, request money and bank sync across three microservices, with idempotency and risk checks,
   and zero regression on PayPay's own flows.
 - **25× more friends per account (200 → 5,000)**: benchmarked Aurora MySQL across 200K+ relationships,
-  proved the indexes scale sub-linearly, and wrote the design doc and phased rollout plan.
+  proved the indexes scale sub-linearly, wrote the design doc, and shipped it to production.
+- **PayPay Points for shopping on LINE**: built the backend that credits PayPay Points when users shop on LINE Yahoo services.
 - **Payment flows that recover safely**: debit, refund, reversal, partial capture and re-authorization.
 - **A 160M-record customer migration** at ZET, plus cutting MySQL CPU from 98% to 20%.
 
